@@ -51,23 +51,9 @@ header span{
 	font-weight: bold;
 }
 
-/*.list button {
-	font-size: 20px;
-	border-radius: 4px;
-	background-color: #F4976C;
-	border:0px;
-	color: white;
-}
-
-.list button:hover {
- 	background-color: white;
- 	color: #303C6C;
- 	font-weight: bolder;
-}*/
-
 .container {
 	height: 600px;
-	background: url('../images/cf.png') no-repeat 0px 50px ;
+	background: url('cf.png') no-repeat 0px 50px ;
     width : 100%;
 }
 
@@ -259,11 +245,10 @@ header span{
 	text-align: center;
 }
 
-.fab {
-	font-size: 50px;
+.fa {
+	font-size:50px;
 	padding: 30px 30px;
 	color:#303C6C;
-
 }
 
 footer {
